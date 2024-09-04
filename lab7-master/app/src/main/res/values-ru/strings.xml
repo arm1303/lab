@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string-array name="string_array">
+        <item>Петров.В.И.</item>
+        <item>Соловьева А.Н.</item>
+        <item>Соколов В.К.</item>
+        <item>Кузнецова А.И.</item>
+        <item>Дьяченко И.К.</item>
+        <item>Лебедева О.М..</item>
+        <item>Смирнов К.И.</item>
+        <item>Козлова О.Н.</item>
+        <item>Морозов Г.В.</item>
+        <item>Зайцев Д.А.</item>
+        <item>Васильева М.А.</item>
+        <item>Кузнецов Д.С..</item>
+        <item>Михайлова Е.П.</item>
+        <item>Федоров К.И.</item>
+        <item>Попова О.В.</item>
+        <item>Соколов И.Л.</item>
+        <item>Андреева Н.Р.</item>
+        <item>Григорьев Л.А.</item>
+        <item>. Богданова Е.Н.</item>
+        <item>Ефимов А.П.</item>
+    </string-array>
+
+    <string name="registration">Регистрация</string>
+
+    <string name="full_name">Полное имя</string>
+    <string name="full_name_hint">Введите полное имя</string>
+
+    <string name="login">Логин</string>
+    <string name="login_hint">Введите логин</string>
+
+    <string name="email">E-mail</string>
+    <string name="email_hint">Введите E-mail</string>
+
+    <string name="phone">Номер телефона</string>
+    <string name="phone_hint">Введите номер телефона</string>
+
+    <string name="password">Пароль</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="repeat_password_hint">Повторите пароль</string>
+
+    <string name="birth_date">Дата рождения</string>
+    <string name="birth_date_hint">Введите дату рождения</string>
+
+    <string name="item_from_list">Выберите элемент из списка</string>
+
+    <string name="agreement">Я соглашаюсь на обработку персональных данных</string>
+
+    <string name="close">Закрыть</string>
+
+</resources>
